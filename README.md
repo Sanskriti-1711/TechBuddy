@@ -12,5 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/66177822/149616253-3a19e5dd-1559-400a-8c0d-f9102215cdb2.png)
 
+# TechBuddy also accepts voice commands from the user.
+
 
 
