@@ -3,7 +3,7 @@ TechBuddy software is programmed to perform automated tasks and execute commands
 ![image](https://user-images.githubusercontent.com/66177822/149616089-3b89dea4-af0b-46e5-aa29-1b2ea3c25a2e.png)
 The technologies included are:
 DOCKER ON AWS
-Create and terminate container, check available images, download, etc.delete ![image](https://user-images.githubusercontent.com/66177822/149616233-76d4dcb7-e932-47ca-b591-5504998072cc.png)
+Create and terminate container, check available images, download or delete, etc. ![image](https://user-images.githubusercontent.com/66177822/149616233-76d4dcb7-e932-47ca-b591-5504998072cc.png)
 
 AWS
 Login, Show instances available, Create new security grp, Create a New Key-Pair, Launch instance, Manage instance, creating S3 storage, etc.
