@@ -4,10 +4,10 @@ TechBuddy software is programmed to perform automated tasks and execute commands
 
 # The technologies included are:
 
-![image](https://user-images.githubusercontent.com/66177822/149616320-26b6c6c3-876b-4e56-bb2e-b064283c1000.png)
+![image](https://user-images.githubusercontent.com/66177822/149616396-e530dbbe-591a-4cde-ba0a-d860395f82c6.png)
 
 
-![image](https://user-images.githubusercontent.com/66177822/149616244-96be2a86-d90f-4dbb-a397-51fecc669abf.png)
+![image](https://user-images.githubusercontent.com/66177822/149616407-e2186499-5ca1-4a0a-93fe-8376229a0a2c.png)
 
 
 ![image](https://user-images.githubusercontent.com/66177822/149616253-3a19e5dd-1559-400a-8c0d-f9102215cdb2.png)
