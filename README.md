@@ -2,8 +2,8 @@
 TechBuddy software is programmed to perform automated tasks and execute commands in a sequence.
 ![image](https://user-images.githubusercontent.com/66177822/149616089-3b89dea4-af0b-46e5-aa29-1b2ea3c25a2e.png)
 The technologies included are:
-DOCKER ON AWS
-Create and terminate container, check available images, download or delete, etc..![image](https://user-images.githubusercontent.com/66177822/149616320-26b6c6c3-876b-4e56-bb2e-b064283c1000.png)
+
+![image](https://user-images.githubusercontent.com/66177822/149616320-26b6c6c3-876b-4e56-bb2e-b064283c1000.png)
 
 
 AWS
